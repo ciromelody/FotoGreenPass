@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FotoGreenPass</string>
+    <string name="fotogreenpass_jpg">fotogreenpass.jpg</string>
+    <string name="cancella_percorso">x</string>
+    <string name="seleziona_foto_green_pass">Seleziona foto Green Pass</string>
+    <string name="todo">TODO</string>
+</resources>
